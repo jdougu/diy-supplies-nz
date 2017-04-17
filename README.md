@@ -1,2 +1,15 @@
-# diy-supplies-nz
-DIY Supplies in New Zealand
+# DIY Supplies in New Zealand
+
+## Uncategorized
+
+- [Anzor](http://www.anzor.co.nz) - stainless steel fasteners
+- [Carbatec](http://www.carbatec.co.nz/) - woodworking supplies and tools
+- [Co-Mac](http://www.comac.co.nz) - big range of hardware
+- [Hi-Q Components](http://hiq.co.nz) - various hardware and components
+- [Kormax](http://www.kormax.co.nz/) - non ferrous metals
+- [MAKERshop](http://www.makershop.co.nz/) - cnc and 3d printing gear
+- [Patoura Moulding](http://plasticknobs.co.nz/) - manufacturers of phenolic knobs and handles
+- [PSP Ltd](http://www.psp.co.nz/) - plastic sheeting and panels
+- [Shinagawa](http://www.shinagawa.co.nz) - refractories
+- [The Tool Shed](http://www.thetoolshed.co.nz/) - power and hand tools
+- [Ullrich Aluminium](http://www.ullrich-aluminium.co.nz/) - aluminium extrusions and tools
