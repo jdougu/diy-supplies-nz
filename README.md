@@ -6,6 +6,7 @@
 - [Anzor](http://www.anzor.co.nz) - stainless steel fasteners
 - [Carbatec](http://www.carbatec.co.nz/) - woodworking supplies and tools
 - [Co-Mac](http://www.comac.co.nz) - big range of hardware
+- [Fortress Fasteners](http://fortress.kiwi) - fasteners
 - [Gordon Harris](http://www.gordonharris.co.nz/) - art and graphic store
 - [Hi-Q Components](http://hiq.co.nz) - various hardware and components
 - [Kormax](http://www.kormax.co.nz/) - non ferrous metals
