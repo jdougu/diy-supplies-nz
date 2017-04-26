@@ -13,6 +13,7 @@
 - [MAKERshop](http://www.makershop.co.nz/) - cnc and 3d printing gear
 - [Patoura Moulding](http://plasticknobs.co.nz/) - manufacturers of phenolic knobs and handles
 - [PSP Ltd](http://www.psp.co.nz/) - plastic sheeting and panels
+- [QCD Ltd](http://www.qcd.co.nz/) - suppliers to the marine, shade and industrial textile trades
 - [Shinagawa](http://www.shinagawa.co.nz) - refractories
 - [The Tool Shed](http://www.thetoolshed.co.nz/) - power and hand tools
 - [Ullrich Aluminium](http://www.ullrich-aluminium.co.nz/) - aluminium extrusions and tools
