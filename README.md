@@ -11,6 +11,7 @@
 - [Hi-Q Components](http://hiq.co.nz) - various hardware and components
 - [Kormax](http://www.kormax.co.nz/) - non ferrous metals
 - [MAKERshop](http://www.makershop.co.nz/) - cnc and 3d printing gear
+- [NZ Miniature Bearings](http://www.nzminiaturebearings.com/) - bearings, couplers, and springs
 - [Patoura Moulding](http://plasticknobs.co.nz/) - manufacturers of phenolic knobs and handles
 - [PSP Ltd](http://www.psp.co.nz/) - plastic sheeting and panels
 - [QCD Ltd](http://www.qcd.co.nz/) - suppliers to the marine, shade and industrial textile trades
