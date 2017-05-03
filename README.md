@@ -9,6 +9,7 @@
 - [The Fibreglass Shop](https://www.fibreglassshop.co.nz/) - cloth, tools, and resins
 - [Fortress Fasteners](http://fortress.kiwi) - fasteners
 - [Gordon Harris](http://www.gordonharris.co.nz/) - art and graphic store
+- [Gracol Composites](http://www.gracolcomposites.co.nz/) - pultruded fibreglass products
 - [Hi-Q Components](http://hiq.co.nz) - various hardware and components
 - [Kormax](http://www.kormax.co.nz/) - non ferrous metals
 - [MAKERshop](http://www.makershop.co.nz/) - cnc and 3d printing gear
