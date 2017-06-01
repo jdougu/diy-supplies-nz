@@ -3,11 +3,9 @@
 ## Uncategorized
 
 - [Adhesive Technologies](http://www.adhesivetechnologies.co.nz/) - epoxy resins and supplies
-- [Anzor](http://www.anzor.co.nz) - stainless steel fasteners
 - [Carbatec](http://www.carbatec.co.nz/) - woodworking supplies and tools
 - [Co-Mac](http://www.comac.co.nz) - big range of hardware
 - [The Fibreglass Shop](https://www.fibreglassshop.co.nz/) - cloth, tools, and resins
-- [Fortress Fasteners](http://fortress.kiwi) - fasteners
 - [Gordon Harris](http://www.gordonharris.co.nz/) - art and graphic store
 - [Gracol Composites](http://www.gracolcomposites.co.nz/) - pultruded fibreglass products
 - [Hi-Q Components](http://hiq.co.nz) - various hardware and components
@@ -25,4 +23,7 @@
 
 ## Fasteners
 
+- [Anzor](http://www.anzor.co.nz) - stainless steel fasteners
 - [Bronze and Brass Fasteners Ltd](https://www.bronzeandbrassfasteners.co.nz/) - marine fasteners
+- [Fortress Fasteners](http://fortress.kiwi) - fasteners
+
