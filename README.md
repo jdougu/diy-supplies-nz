@@ -22,3 +22,7 @@
 - [Supreme Oils] (https://www.supremeoils.co.nz/) - wood protection oils and solvents
 - [The Tool Shed](http://www.thetoolshed.co.nz/) - power and hand tools
 - [Ullrich Aluminium](http://www.ullrich-aluminium.co.nz/) - aluminium extrusions and tools
+
+## Fasteners
+
+- [Bronze and Brass Fasteners Ltd](https://www.bronzeandbrassfasteners.co.nz/) - marine fasteners
