@@ -17,7 +17,7 @@
 - [PSP Ltd](http://www.psp.co.nz/) - plastic sheeting and panels
 - [QCD Ltd](http://www.qcd.co.nz/) - suppliers to the marine, shade and industrial textile trades
 - [Shinagawa](http://www.shinagawa.co.nz) - refractories
-- [Supreme Oils] (https://www.supremeoils.co.nz/) - wood protection oils and solvents
+- [Supreme Oils](https://www.supremeoils.co.nz/) - wood protection oils and solvents
 - [The Tool Shed](http://www.thetoolshed.co.nz/) - power and hand tools
 - [Ullrich Aluminium](http://www.ullrich-aluminium.co.nz/) - aluminium extrusions and tools
 
