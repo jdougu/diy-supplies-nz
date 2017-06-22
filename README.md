@@ -9,7 +9,6 @@
 - [Gordon Harris](http://www.gordonharris.co.nz/) - art and graphic store
 - [Gracol Composites](http://www.gracolcomposites.co.nz/) - pultruded fibreglass products
 - [Hi-Q Components](http://hiq.co.nz) - various hardware and components
-- [Kormax](http://www.kormax.co.nz/) - non ferrous metals
 - [MAKERshop](http://www.makershop.co.nz/) - cnc and 3d printing gear
 - [Norski](http://www.norski.co.nz/) - paints, resins, and supplies
 - [NZ Miniature Bearings](http://www.nzminiaturebearings.com/) - bearings, couplers, and springs
@@ -19,6 +18,10 @@
 - [Shinagawa](http://www.shinagawa.co.nz) - refractories
 - [Supreme Oils](https://www.supremeoils.co.nz/) - wood protection oils and solvents
 - [The Tool Shed](http://www.thetoolshed.co.nz/) - power and hand tools
+
+## Metals
+
+- [Kormax](http://www.kormax.co.nz/) - non ferrous metals
 - [Ullrich Aluminium](http://www.ullrich-aluminium.co.nz/) - aluminium extrusions and tools
 
 ## Fasteners
