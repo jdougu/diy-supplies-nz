@@ -23,6 +23,7 @@
 
 - [Kormax](http://www.kormax.co.nz/) - non ferrous metals
 - [Ullrich Aluminium](http://www.ullrich-aluminium.co.nz/) - aluminium extrusions and tools
+- [Wakefield Metals](http://www.wakefieldmetals.co.nz/) - ferrous and non ferrous metals
 
 ## Fasteners
 
