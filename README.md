@@ -9,6 +9,7 @@
 - [Gordon Harris](http://www.gordonharris.co.nz/) - art and graphic store
 - [Gracol Composites](http://www.gracolcomposites.co.nz/) - pultruded fibreglass products
 - [Hi-Q Components](http://hiq.co.nz) - various hardware and components
+- [Jaycar Electronics](https://www.jaycar.co.nz/) - electronic components, tools, an gadgets
 - [MAKERshop](http://www.makershop.co.nz/) - cnc and 3d printing gear
 - [Norski](http://www.norski.co.nz/) - paints, resins, and supplies
 - [NZ Miniature Bearings](http://www.nzminiaturebearings.com/) - bearings, couplers, and springs
