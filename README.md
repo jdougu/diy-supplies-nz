@@ -11,6 +11,7 @@
 - [Hi-Q Components](http://hiq.co.nz) - various hardware and components
 - [Jaycar Electronics](https://www.jaycar.co.nz/) - electronic components, tools, an gadgets
 - [MAKERshop](http://www.makershop.co.nz/) - cnc and 3d printing gear
+- [Mr Positive](http://www.mrpositive.co.nz/) - power products and batteries
 - [Norski](http://www.norski.co.nz/) - paints, resins, and supplies
 - [NZ Miniature Bearings](http://www.nzminiaturebearings.com/) - bearings, couplers, and springs
 - [Patoura Moulding](http://plasticknobs.co.nz/) - manufacturers of phenolic knobs and handles
