@@ -8,6 +8,7 @@
 - [The Fibreglass Shop](https://www.fibreglassshop.co.nz/) - cloth, tools, and resins
 - [Gordon Harris](http://www.gordonharris.co.nz/) - art and graphic store
 - [Gracol Composites](http://www.gracolcomposites.co.nz/) - pultruded fibreglass products
+- [G & A Warburtons](https://www.warburtons.co.nz/) - jewelry tools and supplies
 - [Hi-Q Components](http://hiq.co.nz) - various hardware and components
 - [Jaycar Electronics](https://www.jaycar.co.nz/) - electronic components, tools, an gadgets
 - [MAKERshop](http://www.makershop.co.nz/) - cnc and 3d printing gear
