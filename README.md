@@ -22,6 +22,7 @@
 - [Shinagawa](http://www.shinagawa.co.nz) - refractories
 - [Supreme Oils](https://www.supremeoils.co.nz/) - wood protection oils and solvents
 - [The Tool Shed](http://www.thetoolshed.co.nz/) - power and hand tools
+- [Piranha Tools](https://piranhatools.co.nz/) - specialty tools
 
 ## Metals
 
