@@ -12,6 +12,7 @@
 - [Hi-Q Components](http://hiq.co.nz) - various hardware and components
 - [Jaycar Electronics](https://www.jaycar.co.nz/) - electronic components, tools, and gadgets
 - [MAKERshop](http://www.makershop.co.nz/) - cnc and 3d printing gear
+- [MetCast Services](https://www.metcast.com/) - foundry hardware and software
 - [Millin](https://www.millin.co.nz/) - painting and plastering supplies
 - [Mr Positive](http://www.mrpositive.co.nz/) - power products and batteries
 - [Norski](http://www.norski.co.nz/) - paints, resins, and supplies
