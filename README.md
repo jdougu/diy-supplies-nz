@@ -1,4 +1,4 @@
-# DIY Supplies in New Zealand
+# DIY Suppliers in New Zealand
 
 ## Uncategorized
 
