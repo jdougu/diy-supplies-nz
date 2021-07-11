@@ -3,6 +3,7 @@
 ## Uncategorized
 
 - [Adhesive Technologies](http://www.adhesivetechnologies.co.nz/) - epoxy resins and supplies
+- [Aluminium Extrusion Co](https://alexco.co.nz/) - Small-profile aluminium extruder
 - [Carbatec](http://www.carbatec.co.nz/) - woodworking supplies and tools
 - [Co-Mac](http://www.comac.co.nz) - big range of hardware
 - [The Fibreglass Shop](https://www.fibreglassshop.co.nz/) - cloth, tools, and resins
