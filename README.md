@@ -39,3 +39,7 @@
 - [The Boltholder](http://www.theboltholder.co.nz/) - bolts, nuts, and engineering fastners
 - [Bronze and Brass Fasteners Ltd](https://www.bronzeandbrassfasteners.co.nz/) - marine fasteners
 - [Fortress Fasteners](http://fortress.kiwi) - fasteners
+
+## Timber
+
+- [City Timber Ltd](https://www.citytimber.co.nz/) - Wellington specialist timber supplier
